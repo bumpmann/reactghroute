@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactghroute/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/reactghroute/static/js/main.3084c3d0.chunk.js",
+    "main.js.map": "/reactghroute/static/js/main.3084c3d0.chunk.js.map",
+    "runtime-main.js": "/reactghroute/static/js/runtime-main.8a35f3ea.js",
+    "runtime-main.js.map": "/reactghroute/static/js/runtime-main.8a35f3ea.js.map",
+    "static/js/2.62c6993b.chunk.js": "/reactghroute/static/js/2.62c6993b.chunk.js",
+    "static/js/2.62c6993b.chunk.js.map": "/reactghroute/static/js/2.62c6993b.chunk.js.map",
+    "static/js/3.5ed1d3be.chunk.js": "/reactghroute/static/js/3.5ed1d3be.chunk.js",
+    "static/js/3.5ed1d3be.chunk.js.map": "/reactghroute/static/js/3.5ed1d3be.chunk.js.map",
+    "index.html": "/reactghroute/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/reactghroute/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.62c6993b.chunk.js.LICENSE.txt": "/reactghroute/static/js/2.62c6993b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/reactghroute/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a35f3ea.js",
+    "static/js/2.62c6993b.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.3084c3d0.chunk.js"
+  ]
+}
